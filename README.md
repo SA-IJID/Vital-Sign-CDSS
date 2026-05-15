@@ -28,4 +28,4 @@ The most advanced version, integrating **Respiration Rate (RR)** and refined oxy
    ```bash
    git clone [https://github.com/YOUR_USERNAME/VitalSign-CDSS-Suite.git](https://github.com/YOUR_USERNAME/VitalSign-CDSS-Suite.git)
    
-   AUTHOR: Dr. Sajid Medical Laboratory Scientist | Bioinformatics Student
+   AUTHOR: Dr. Sajid. Medical Laboratory Scientist | Python Developer|Bioinformatics Enthusiast
